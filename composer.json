@@ -1,0 +1,13 @@
+{
+    "name": "rahmatawaludin/travis-guzzle-bug",
+    "authors": [
+        {
+            "name": "Rahmat Awaludin",
+            "email": "rahmat.awaludin@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "~6.0",
+        "phpunit/phpunit": "^7.4"
+    }
+}
